@@ -44,4 +44,3 @@ func main() {
 
 	log.Println("Interrupt signal received, cleaning up and exiting...")
 }
-
